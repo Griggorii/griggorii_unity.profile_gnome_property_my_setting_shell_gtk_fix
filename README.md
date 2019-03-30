@@ -14,3 +14,9 @@ CTRL+TAB
 CTRL+ALT+<^>
 
 (win)Super+TAB
+
+Resize window удерживать ALT+Mouse
+
+Крутить круглый рабочий стол зажать CTRL+ALT+Mouse mouse 
+
+Alt прицел в окне браузера
