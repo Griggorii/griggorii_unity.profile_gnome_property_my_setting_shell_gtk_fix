@@ -11,7 +11,9 @@ Alt+Shift+TAB
 
 CTRL+TAB
 
-CTRL+ALT+<^>
+CTRL+ALT+ ← ↓ ↑ →
+
+CTRL+ALT+ ↓
 
 (win)Super+TAB
 
