@@ -15,7 +15,7 @@ CTRL+TAB
 
 Отдалить рабочие столы CTRL+ALT+ ↓
 
-(win)Super+TAB
+(win)Super+TAB ( дополнительно можно потом зажать CTRL+ALT и кидать окно в разные углы при помощи стрелок ← ↓ ↑ → )
 
 Resize window удерживать ALT+Mouse
 
