@@ -11,9 +11,9 @@ Alt+Shift+TAB
 
 CTRL+TAB
 
-CTRL+ALT+ ← ↓ ↑ →
+Вращение рабочих столов CTRL+ALT+ ← ↓ ↑ →
 
-CTRL+ALT+ ↓
+Отдалить рабочие столы CTRL+ALT+ ↓
 
 (win)Super+TAB
 
